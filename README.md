@@ -1,5 +1,5 @@
 - 👋 Hi, I’m David
-- 👩🏾‍💻 I'm a software engineer
+- 👩🏾‍💻 I'm a software developer
 - 👀 I’m interested in music and coding
 - 📫 How to reach me, WhatsApp: +2349073934379
 

@@ -1,6 +1,6 @@
 # 👋 Hi, I’m **David**  
 
-### 👨‍💻 **Software Developer | Code Enthusiast | Music Lover**  
+### 👨‍💻 **Software Developer | Code Enthusiast
 Welcome to my GitHub corner! I’m all about turning ideas into reality with clean and scalable code.  
 
 ---

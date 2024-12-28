@@ -1,6 +1,6 @@
 # 👋 Hi, I’m **David**  
 
-### 👨‍💻 **Software Developer | Code Enthusiast
+### 👨‍💻 **Software Developer | Code Enthusiast | AI/ML Enthusiast
 Welcome to my GitHub corner! I’m all about turning ideas into reality with clean and scalable code.  
 
 ---
@@ -8,7 +8,7 @@ Welcome to my GitHub corner! I’m all about turning ideas into reality with cle
 ## 🚀 **About Me**  
 - 👀 Passionate about **coding**, rhythm of **music** and **gaming!**
 - 👩🏾‍💻 Over **4 years of experience** in building web apps, APIs, and innovative solutions.  
-- 🎯 Currently exploring **Flutter** to learn how mobile enviroment works. 
+- 🎯 Learning **AI/ML** to understand its role in enhancing decision-making and automation in diverse environments.
 - 🧑‍🏫 I also enjoy **training people** to code and solve real-world problems.  
 
 ---

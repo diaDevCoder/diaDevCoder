@@ -1,6 +1,6 @@
 # Hi, I’m David
 
-### Software Developer | Code Enthusiast | AI/ML Enthusiast
+### Software Engineer | Code Enthusiast | AI/ML Enthusiast
 Welcome to my GitHub corner! I’m all about turning ideas into reality with clean and scalable code.  
 
 ---
